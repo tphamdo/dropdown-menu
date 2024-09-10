@@ -16,7 +16,5 @@
     "url": "https://github.com/tphamdo/dropdown-menu/issues"
   },
   "homepage": "https://github.com/tphamdo/dropdown-menu#readme",
-  "devDependencies": {
-    "http-server": "^14.1.1"
-  }
+  "type": "module"
 }
